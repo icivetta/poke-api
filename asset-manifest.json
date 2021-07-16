@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/poke-api/static/css/main.d92b56e1.chunk.css",
+    "main.js": "/poke-api/static/js/main.e56cfd83.chunk.js",
+    "main.js.map": "/poke-api/static/js/main.e56cfd83.chunk.js.map",
+    "runtime-main.js": "/poke-api/static/js/runtime-main.ae389c92.js",
+    "runtime-main.js.map": "/poke-api/static/js/runtime-main.ae389c92.js.map",
+    "static/js/2.6e149e67.chunk.js": "/poke-api/static/js/2.6e149e67.chunk.js",
+    "static/js/2.6e149e67.chunk.js.map": "/poke-api/static/js/2.6e149e67.chunk.js.map",
+    "static/js/3.74dbd15b.chunk.js": "/poke-api/static/js/3.74dbd15b.chunk.js",
+    "static/js/3.74dbd15b.chunk.js.map": "/poke-api/static/js/3.74dbd15b.chunk.js.map",
+    "index.html": "/poke-api/index.html",
+    "static/css/main.d92b56e1.chunk.css.map": "/poke-api/static/css/main.d92b56e1.chunk.css.map",
+    "static/js/2.6e149e67.chunk.js.LICENSE.txt": "/poke-api/static/js/2.6e149e67.chunk.js.LICENSE.txt",
+    "static/media/Github.39e986cf.png": "/poke-api/static/media/Github.39e986cf.png",
+    "static/media/Logo.d1843115.png": "/poke-api/static/media/Logo.d1843115.png",
+    "static/media/Spinner.730e10b5.svg": "/poke-api/static/media/Spinner.730e10b5.svg",
+    "static/media/linkedin.1ec7a98f.png": "/poke-api/static/media/linkedin.1ec7a98f.png",
+    "static/media/pokeball.c7b25d38.png": "/poke-api/static/media/pokeball.c7b25d38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae389c92.js",
+    "static/js/2.6e149e67.chunk.js",
+    "static/css/main.d92b56e1.chunk.css",
+    "static/js/main.e56cfd83.chunk.js"
+  ]
+}
